@@ -1,0 +1,11 @@
+﻿openai==1.13.3
+langchain==0.1.11
+langchain-openai==0.0.8
+python-dotenv==1.0.1
+langchainhub==0.1.15
+pandas==2.2.2
+streamlit==1.37.1
+openai==1.13.3
+pypdf==4.3.1
+PyPDF2==3.0.1
+faiss-gpu==1.7.2
