@@ -41,6 +41,12 @@ Para criar um arquivo `.env` usando Python, você pode simplesmente abrir um arq
 1. **Crie um script Python** para gerar o `.env`.
 2. **Escreva as variáveis de ambiente** no arquivo.
 
+Exemplo:
+
+```
+OPENAI_API_KEY = fE#$nffk$EFefeg
+```
+
 
 # Requirements.txt
 
