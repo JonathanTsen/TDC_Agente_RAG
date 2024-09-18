@@ -31,7 +31,6 @@ nome_do_venv\Scripts\activate
 
 Agora, o ambiente está configurado e você pode instalar pacotes e bibliotecas sem afetar o ambiente global do Python.
 
-
 # **ENV**
 
 Para criar um arquivo `.env` usando Python, você pode simplesmente abrir um arquivo de texto e gravar as variáveis de ambiente que você deseja definir. Aqui está um exemplo simples de como criar um arquivo `.env` com Python:
@@ -47,12 +46,19 @@ Exemplo:
 OPENAI_API_KEY = fE#$nffk$EFefeg
 ```
 
-
 # Requirements.txt
 
 **Instale os pacotes** listados no `requirements.txt` utilizando o `pip`. Execute o seguinte comando na mesma pasta onde o arquivo `requirements.txt` está localizado:
 
-
 ```
 pip install -r requirements.txt
+```
+
+
+# Run Streamlit
+
+
+```
+streamlit run app.py
+
 ```
